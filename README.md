@@ -32,5 +32,4 @@ Financial dashboard analyzing loan status, balances, counterparties, and profita
 - Data Modeling
 
 ## 📫 Contact
-- LinkedIn: (add later)
-- Email: (add later)
+- LinkedIn: www.linkedin.com/in/volodymyr-linnyk-250090138

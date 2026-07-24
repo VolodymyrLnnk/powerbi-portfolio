@@ -32,9 +32,12 @@ Developed an interactive Power BI dashboard with:
 ---
 
 ## 🔍 Key Insights
-- Supplier A is more cost-efficient in long-term contracts
-- Make option is выгодніше при високому попиті
+- Supplier competitiveness varies significantly with volume
+- The biggest opportunity is not just choosing the cheapest supplier —
+but optimizing across volume, supplier, and make-vs-buy decisions simultaneously.
 - Scenario analysis shows cost sensitivity
+- Unit costs decrease as volume increases
+- However, non-recurring costs can grow sharply, impacting total cost
 
 ---
 

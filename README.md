@@ -17,6 +17,9 @@ Advanced analytics solution for supplier selection, demand planning scenarios, a
 
 ### 🔹 E-commerce Analysis
 Comprehensive dashboard covering sales performance, delivery costs, and product category insights.
+<img width="1467" height="852" alt="Снимок экрана (1670)" src="https://github.com/user-attachments/assets/3ab96465-f133-4410-9be0-5ed7773bbe8d" />
+<img width="1465" height="847" alt="Снимок экрана (1669)" src="https://github.com/user-attachments/assets/0da46db1-45cf-4a9b-a81e-6f5ae9721fcf" />
+<img width="1469" height="817" alt="Снимок экрана (1668)" src="https://github.com/user-attachments/assets/20d6b493-df74-4d4f-b50f-12eb9032086f" />
 
 ### 🔹 HR Analytics
 Workforce analysis including employee demographics, performance, and organizational structure.

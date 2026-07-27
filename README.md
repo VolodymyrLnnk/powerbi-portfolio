@@ -23,6 +23,11 @@ Comprehensive dashboard covering sales performance, delivery costs, and product 
 
 ### 🔹 HR Analytics
 Workforce analysis including employee demographics, performance, and organizational structure.
+<img width="1467" height="845" alt="Снимок экрана (1671)" src="https://github.com/user-attachments/assets/c525db36-a890-415d-a176-f5d924720ee6" />
+<img width="1469" height="846" alt="Снимок экрана (1672)" src="https://github.com/user-attachments/assets/3a46cf97-e2c9-4b23-87ee-9ec4671e0654" />
+<img width="1464" height="825" alt="Снимок экрана (1673)" src="https://github.com/user-attachments/assets/21976b38-6e40-4319-960e-3b40c79d80be" />
+<img width="1462" height="844" alt="Снимок экрана (1674)" src="https://github.com/user-attachments/assets/a7be0b19-eea8-48b6-9bfe-b55b278dca66" />
+
 
 ### 🔹 Customer Churn Analysis
 Deep dive into customer retention, identifying churn drivers and behavioral patterns.

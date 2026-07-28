@@ -31,6 +31,10 @@ Workforce analysis including employee demographics, performance, and organizatio
 
 ### 🔹 Customer Churn Analysis
 Deep dive into customer retention, identifying churn drivers and behavioral patterns.
+<img width="1471" height="853" alt="Снимок экрана (1678)" src="https://github.com/user-attachments/assets/c8c13b33-b6f3-4386-9548-1e3331200e96" />
+<img width="1427" height="850" alt="Снимок экрана (1679)" src="https://github.com/user-attachments/assets/141d1bdf-0410-4ee5-ae7e-55bd6baeb441" />
+<img width="1478" height="849" alt="Снимок экрана (1680)" src="https://github.com/user-attachments/assets/15ef0e84-a76e-41c3-8733-b44f7dfb094e" />
+
 
 ### 🔹 Inventory Analysis
 Stock level optimization, product valuation, and order management insights.

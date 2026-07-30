@@ -38,6 +38,8 @@ Deep dive into customer retention, identifying churn drivers and behavioral patt
 
 ### 🔹 Inventory Analysis
 Stock level optimization, product valuation, and order management insights.
+<img width="1469" height="834" alt="Снимок экрана (1681)" src="https://github.com/user-attachments/assets/a87b6178-a90a-4def-9aaf-08907a18cdf3" />
+<img width="1459" height="850" alt="Снимок экрана (1682)" src="https://github.com/user-attachments/assets/fb2607e6-9e83-4561-bdd1-404197b4f522" />
 
 ### 🔹 Mortgage Trading Analysis
 Financial dashboard analyzing loan status, balances, counterparties, and profitability.

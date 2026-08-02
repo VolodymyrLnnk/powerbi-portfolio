@@ -43,6 +43,9 @@ Stock level optimization, product valuation, and order management insights.
 
 ### 🔹 Mortgage Trading Analysis
 Financial dashboard analyzing loan status, balances, counterparties, and profitability.
+<img width="1461" height="849" alt="Снимок экрана (1683)" src="https://github.com/user-attachments/assets/287ac93e-fe1e-4b1c-8445-c60dcb911e03" />
+<img width="1457" height="844" alt="Снимок экрана (1684)" src="https://github.com/user-attachments/assets/5233cbd7-e1db-4542-8e56-786d31352526" />
+
 
 ## 🛠 Tools & Technologies
 - Power BI
